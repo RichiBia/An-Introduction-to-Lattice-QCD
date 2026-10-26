@@ -2,7 +2,7 @@
 
 **Overview**
 
-This repository provides an implementation of the analysis described in LePage’s lectures on Lattice QCD. The project explores the numerical formulation Quantum Chromodynamics (QCD) on a discretized space-time lattice, focusing on Monte Carlo methods, path integrals, and gauge field computations.
+This repository provides an implementation of the analysis described in [LePage’s lectures on Lattice QCD](https://arxiv.org/abs/hep-lat/0506036). The project explores the numerical formulation Quantum Chromodynamics (QCD) on a discretized space-time lattice, focusing on Monte Carlo methods, path integrals, and gauge field computations.
 
 **Files Description**
 
